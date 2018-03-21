@@ -202,7 +202,7 @@
                             </rules>
                             <fail>true</fail>
                         </configuration>
-                    </execution>
+                </execution>
         </plugin>     
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
