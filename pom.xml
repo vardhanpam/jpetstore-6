@@ -170,7 +170,6 @@
           </configuration>
         </plugin>
         <plugin>
-                <execution>
                         <id>enforce-banned-dependencies</id>
                         <goals>
                             <goal>enforce</goal>
@@ -202,7 +201,7 @@
                             </rules>
                             <fail>true</fail>
                         </configuration>
-                </execution>
+                
         </plugin>     
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
