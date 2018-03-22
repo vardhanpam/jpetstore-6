@@ -372,7 +372,7 @@
           </plugins>
         </pluginManagement>
       </build>
-	  <distributionManagement>
+	   <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Releases</name>
@@ -383,7 +383,7 @@
             <name>Snapshot</name>
             <url>http://13.58.233.178:8081/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
-      </distributionManagement>
+       </distributionManagement>
     </profile>
   </profiles>
 
